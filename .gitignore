@@ -1,0 +1,25 @@
+Type
+.env
+.project
+.classpath
+.settings/
+bin/**
+#conf/database.properties
+.DS_Store
+# Play! Framework
+logs
+project/project
+project/target
+.target
+target
+tmp
+.history
+dist
+/.idea
+/*.iml
+/out
+/.idea_modules
+/.classpath
+/.project
+/RUNNING_PID
+/bin
