@@ -55,9 +55,9 @@ Java 1.6+ (http://www.oracle.com/technetwork/java/javase/downloads)<br>
 Play 2.2.x (http://www.playframework.com/download), recommend Play 2.2.3<br>
 <br>
 run:<br>
-1. Install Play Framework. Instruction can be found at http://www.playframework.com/documentation/2.2.x/Installing<br>
-2. Downlaod the source code from https://github.com/cmusv-sc/ArchF2013-Project3-FT<br>
-3. From the parent folder, run the command: 'play run'<br>
-4. Local App will available at localhost:9000<br>
-5. For code coverage, run 'play jacoco:cover' and the report will be in ./target/jacoco<br>
+Install Play Framework. Instruction can be found at http://www.playframework.com/documentation/2.2.x/Installing<br>
+Downlaod the source code from https://github.com/cmusv-sc/ArchF2013-Project3-FT<br>
+From the parent folder, run the command: 'play run'<br>
+Local App will available at localhost:9000<br>
+For code coverage, run 'play jacoco:cover' and the report will be in ./target/jacoco<br>
 
