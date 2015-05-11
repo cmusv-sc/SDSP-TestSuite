@@ -1,19 +1,19 @@
 Spring-2015-SAD-TEAM9
 ================
 
-1. ArchS2015-APIFramework	(API framwork, run under play 2.1.3 ,scala 2.9.2, sbt 0.13.6)
-
-install command:
-
-wegt http://downloads.typesafe.com/play/2.1.3/play-2.1.3.zip
-sudo apt-get remove scala-library scala
-wget http://www.scala-lang.org/files/archive/scala-2.9.2.deb
-sudo apt-get update
-sudo apt-get install scala
-wget http://dl.bintray.com/sbt/debian/sbt-0.13.6.deb
-sudo dpkg -i sbt-0.13.6.deb 
-sudo apt-get update
-sudo apt-get install sbt
+1. ArchS2015-APIFramework	(API framwork, run under play 2.1.3 ,scala 2.9.2, sbt 0.13.6)<br>
+<br>
+install command:<br>
+<br>
+wegt http://downloads.typesafe.com/play/2.1.3/play-2.1.3.zip<br>
+sudo apt-get remove scala-library scala<br>
+wget http://www.scala-lang.org/files/archive/scala-2.9.2.deb<br>
+sudo apt-get update<br>
+sudo apt-get install scala<br>
+wget http://dl.bintray.com/sbt/debian/sbt-0.13.6.deb<br>
+sudo dpkg -i sbt-0.13.6.deb <br>
+sudo apt-get update<br>
+sudo apt-get install sbt<br>
 
 export path:
 export PATH=$PATH:<path to play2.1.3>
